@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aplicacion Pepito</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hola a todos dos veces</string>
+    <string name="cadena_jose">Hola a todos de Jose </string>
+
+</resources>
